@@ -13,6 +13,8 @@
 		7CD65E1C2549B51600873E16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CD65E1A2549B51600873E16 /* Main.storyboard */; };
 		7CD65E1E2549B51700873E16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CD65E1D2549B51700873E16 /* Assets.xcassets */; };
 		7CD65E212549B51700873E16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CD65E1F2549B51700873E16 /* LaunchScreen.storyboard */; };
+		7CD65E342549D61100873E16 /* 涼涼.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7CD65E312549D61100873E16 /* 涼涼.mp3 */; };
+		7CD65E3A2549E85200873E16 /* I will always love you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7CD65E392549E85200873E16 /* I will always love you.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		7CD65E1D2549B51700873E16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7CD65E202549B51700873E16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7CD65E222549B51700873E16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7CD65E312549D61100873E16 /* 涼涼.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "涼涼.mp3"; sourceTree = "<group>"; };
+		7CD65E392549E85200873E16 /* I will always love you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I will always love you.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		7CD65E132549B51600873E16 /* musicplayer */ = {
 			isa = PBXGroup;
 			children = (
+				7CD65E312549D61100873E16 /* 涼涼.mp3 */,
+				7CD65E392549E85200873E16 /* I will always love you.mp3 */,
 				7CD65E142549B51600873E16 /* AppDelegate.swift */,
 				7CD65E162549B51600873E16 /* SceneDelegate.swift */,
 				7CD65E182549B51600873E16 /* ViewController.swift */,
@@ -125,7 +131,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				7CD65E212549B51700873E16 /* LaunchScreen.storyboard in Resources */,
+				7CD65E3A2549E85200873E16 /* I will always love you.mp3 in Resources */,
 				7CD65E1E2549B51700873E16 /* Assets.xcassets in Resources */,
+				7CD65E342549D61100873E16 /* 涼涼.mp3 in Resources */,
 				7CD65E1C2549B51600873E16 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
